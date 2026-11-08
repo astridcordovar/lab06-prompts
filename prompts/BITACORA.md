@@ -47,8 +47,12 @@ Los nombre se mantiene, ya que son los nombre que encuentra en la lista, solo ca
 | Ejemplo | Utiliza una clase Product con los atributos: código, nombre, precio y stock |
 | Formato | Métodos: getPrice() y setPrice(double price) |
 
-**Nivel 1:** Me consulta que debe hacer el programa que creará.
-**Nivel 2:** Me consulta ¿Qué programa deseas crear?, ¿Qué nivel de complejidad necesitas? y ¿Qué características debe tener?
-**Nivel 3:** Crea un programa con 9 funcionalidades y según su criterio.
-**Nivel 4:** Crea un programa usando las clases indicadas y atributos indicados en el prompt.
-**Nivel 5:** Explica la estructura del programa y crea un programa usando las clases indicadas y atributos indicados en el prompt. 
+**Nivel 1:** Me consulta que debe hacer el programa que creará. 
+
+**Nivel 2:** Me consulta ¿Qué programa deseas crear?, ¿Qué nivel de complejidad necesitas? y ¿Qué características debe tener? 
+
+**Nivel 3:** Crea un programa con 9 funcionalidades y según su criterio. 
+
+**Nivel 4:** Crea un programa usando las clases indicadas y atributos indicados en el prompt. 
+
+**Nivel 5:** Explica la estructura del programa y crea un programa usando las clases indicadas y atributos indicados en el prompt.  
