@@ -5,20 +5,26 @@
 Le pido a ChatGPT crear un programa que sirva para una empresa que desea gestionar las consultas de sus clientes y el estado de atención de cada una.
  
 ## Version 1: prompt basico
+```text
 Crea un programa en Java para registrar consultas de clientes y su estado de atención.
+```
 
 En esta versión pido una versión inicial, una idea general del programa. La IA me pide indicar más detalles del programa. 
 
 ## Version 2
+```text
 Actúa como desarrollador senior. Crea un programa en Java para registrar consultas de clientes y su estado de atención.
+```
 
 Le indico como debe actuar y que caracteristicas generales debe tener el programa. La IA me consulta nuevamente más detalles sobre el programa que le pido.
  
 ## Version 3: prompt final
+```text
 Actúa como un desarrollador de software profesional
 especializado en programación Java y diseño de aplicaciones
 de consola.Desarrolla un programa completo en Java para registrar
 consultas de clientes y gestionar su estado de atención, usando una clase Consulta con los atributos usuario, empresa, contexto.Explica primero la estructura de la clase y luego presenta el codigo Java. Usa este estilo para los metodos: getUsuario(), setUsuario(). Utiliza únicamente Java estándar.
+```
 
 Redacto un prompt completo, se cumplen los 5 niveles para armar un prompt profesional. La IA me da como respuesta la estructura del programa, con las clases y atributos indicados en el prompt.
  
