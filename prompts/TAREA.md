@@ -1,6 +1,8 @@
 # Tarea: Mi prompt profesional
  
 ## Funcionalidad elegida
+
+Le pido a ChatGPT crear un programa que sirva para una empresa que desea gestionar las consultas de sus clientes y el estado de atención de cada una.
  
 ## Version 1: prompt basico
 Crea un programa en Java para registrar consultas de clientes y su estado de atención.
